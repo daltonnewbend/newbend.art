@@ -1,0 +1,21 @@
+	html {
+	background-color: #7DB266;
+	color: #FFFFFE;
+	}
+
+	html {
+	font: 1.2rem "Trebuchet", sans-serif;
+	}	
+	a:special {
+		color: #FFFFFE;
+	}
+	a:link {
+		color: #FFFFFE;
+	}
+	a:visited {
+		color: #FFFFFE;
+	}
+
+	nav {
+	font-size: 20px;
+	}
